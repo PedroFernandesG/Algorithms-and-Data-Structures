@@ -1,10 +1,10 @@
 # Algoritmos-e-Estrutura-de-Dados
 
-Problemas de Computação
+Computing Problems
 # 
-Análise de Algoritmos e Estrutura de Dados em C++
+Algorithm Analysis and Data Structure in C++
 #
-Tecnicas, Heurísticas e Paradigmas de Programação
+Programming Techniques, Heuristics and Paradigms
 
 By Pedro Fernandes
 
